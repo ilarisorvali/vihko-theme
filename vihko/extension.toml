@@ -1,0 +1,7 @@
+id = "vihko"
+name = "Vihko"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ilari Sorvali"]
+description = "A notebook like theme."
+repository = "https://github.com/your-name/my-zed-extension"
