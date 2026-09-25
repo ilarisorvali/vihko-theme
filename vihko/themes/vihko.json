@@ -74,8 +74,8 @@
         "editor.invisible": "#a3a3a4ff",
         "editor.wrap_guide": "#383a410d",
         "editor.active_wrap_guide": "#383a411a",
-        "editor.document_highlight.read_background": "#FF0000FF",
-        "editor.document_highlight.write_background": "#FF0000FF",
+        "editor.document_highlight.read_background": "#B3E561FF",
+        "editor.document_highlight.write_background": "#B3E561FF",
         "terminal.background": "#E8DCB8FF",
         "terminal.foreground": "#000000FF",
         "terminal.bright_foreground": "#000000ff",
@@ -112,26 +112,26 @@
         "conflict.background": "#FFFFFFFF",
         "conflict.border": "#FFFFFFFF",
         "created": "#000000FF",
-        "created.background": "#FFFFFFFF",
-        "created.border": "#FFFFFFFF",
+        "created.background": "#FFFFFF00",
+        "created.border": "#FFFFFF00",
         "deleted": "#000000FF",
         "deleted.background": "#FFFFFFFF",
         "deleted.border": "#FFFFFFFF",
-        "error": "#000000FF",
-        "error.background": "#FF8C87AA",
+        "error": "#FF0000FF",
+        "error.background": "#FF000033",
         "error.border": "#FFFFFFFF",
         "hidden": "#000000FF",
         "hidden.background": "#FFFFFFFF",
         "hidden.border": "#FFFFFFFF",
-        "hint": "#000000FF",
-        "hint.background": "#DEACF9AA",
-        "hint.border": "#FFFFFFFF",
+        "hint": "#00A342FF",
+        "hint.background": "#00FF7FBB",
+        "hint.border": "#FFFFFF0A",
         "ignored": "#000000FF",
         "ignored.background": "#FFFFFFFF",
         "ignored.border": "#FFFFFFFF",
-        "info": "#000000FF",
-        "info.background": "#95C8F3AA",
-        "info.border": "#FFFFFFFF",
+        "info": "#007FFFFF",
+        "info.background": "#007FFF33",
+        "info.border": "#FFFFFF00",
         "modified": "#000000FF",
         "modified.background": "#FFFFFFFF",
         "modified.border": "#FFFFFFFF",
@@ -141,15 +141,15 @@
         "renamed": "#000000FF",
         "renamed.background": "#FFFFFFFF",
         "renamed.border": "#FFFFFFFF",
-        "success": "#000000FF",
-        "success.background": "#7DE198AA",
-        "success.border": "#FFFFFFFF",
+        "success": "#FFFFFFFF",
+        "success.background": "#FF670033",
+        "success.border": "#FFFFFF00",
         "unreachable": "#FFFFFFFF",
         "unreachable.background": "#FFFFFFFF",
         "unreachable.border": "#FFFFFFFF",
-        "warning": "#000000FF",
-        "warning.background": "#FFDC74AA",
-        "warning.border": "#f4e7d1ff",
+        "warning": "#FF6700FF",
+        "warning.background": "#FF670033",
+        "warning.border": "#F4E7D100",
         "players": [
           {
             "cursor": "#007accff",
@@ -189,17 +189,17 @@
         ],
         "syntax": {
           "comment": {
-            "color": "#BD00FFFF",
+            "color": "#B7410EFF",
             "font_style": null,
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#BD00FFFF",
+            "color": "#B7410EFF",
             "font_style": null,
             "font_weight": null
           },
           "string": {
-            "color": "#047D54FF",
+            "color": "#127A54FF",
             "font_style": null,
             "font_weight": null
           },
@@ -209,7 +209,7 @@
             "font_weight": null
           },
           "number": {
-            "color": "#047D54FF",
+            "color": "#127A54FF",
             "font_style": null,
             "font_weight": null
           },
@@ -229,7 +229,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#A14200FF",
+            "color": "#E942CEFF",
             "font_style": null,
             "font_weight": null
           },
@@ -267,7 +267,7 @@
             "color": "#000000FF"
           },
           "function": {
-            "color": "#007FFFFF"
+            "color": "#0047BAFF"
           },
           "operator": {
             "color": "#000000FF"
@@ -303,7 +303,7 @@
             "color": "#000000FF"
           }
         },
-        "editor.document_highlight.bracket_background": "#FF0000FF",
+        "editor.document_highlight.bracket_background": "#B3E561FF",
         "panel.overlay_background": "#E5D6ACFF",
         "panel.overlay_hover": "#F1E9D2FF",
         "minimap.thumb.background": "#383a414c",
